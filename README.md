@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can use this ReactJS template, in conjunction with a [plan](https://www.plan.fanbase.io), 
+to swap ERC20 tokens on 20+ EVM networks, from your own website. With an enterprise plan, 
+you can limit swapping to one specific token address for sending or receiving, like for 'crowdsourcing'.
+
+Look at the documentation here: https://fanbase-io.gitbook.io/docs/reference/staking-widget-sdk
+
+You will need to purchase a plan from here: https://www.plan.fanbase.io.
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -6,7 +6,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 
-![PM-3](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/58fb1d00-438f-494d-9c18-53dbc6549c1d)
+
 
 
 You can use this ReactJS template, in conjunction with a plan at [https://www.plan.fanbase.io](https://www.plan.fanbase.io), \
@@ -18,7 +18,7 @@ to one specific token address, like for distributing only one token from your si
 
 View the documentation here: [https://fanbase-io.gitbook.io/docs/reference/swap-widget-sdk/aggregate-swap-widget](https://fanbase-io.gitbook.io/docs/reference/swap-widget-sdk/aggregate-swap-widget). 
 
-\
+![PM-3](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/58fb1d00-438f-494d-9c18-53dbc6549c1d)
 
 
 ## Available Scripts

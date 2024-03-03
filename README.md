@@ -1,5 +1,8 @@
 # Getting Started
 
+
+![Modern Neon Sci-Fi Fantasy Book Cover  copy](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/277ca724-0bf4-4815-a4f9-12a26d467a69)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 
@@ -16,7 +19,6 @@ to one specific token address, like for distributing only one token from your si
 View the documentation here: [https://fanbase-io.gitbook.io/docs/reference/swap-widget-sdk/aggregate-swap-widget](https://fanbase-io.gitbook.io/docs/reference/swap-widget-sdk/aggregate-swap-widget). 
 
 \
-![Modern Neon Sci-Fi Fantasy Book Cover  copy](https://github.com/FanbaseLabs/React-Aggregate-ERC20-Swap/assets/145924938/277ca724-0bf4-4815-a4f9-12a26d467a69)
 
 
 ## Available Scripts
